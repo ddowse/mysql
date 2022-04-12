@@ -1,0 +1,4 @@
+PKG mysql80-server
+
+SERVICE mysql-server enable
+SERVICE mysql-server start
